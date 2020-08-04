@@ -11,7 +11,7 @@ and the code is easy to understand and gives any developer the power to turn thi
 ![velonic admin light](https://github.com/hoangphidev/velonic-themes/blob/master/velonicdarkadmin.png)
 #
 
-##PAGES:
+## PAGES:
 - Dashboard
 - Typography
 - Buttons
